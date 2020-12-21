@@ -1,0 +1,6 @@
+﻿D:\Program Files\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(图书管理系统实现.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mainfunction.cpp
+D:\visual studio\图书管理系统实现\mainfunction.cpp(51,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  subfunction.cpp
+  正在生成代码...
+  图书管理系统实现.vcxproj -> D:\visual studio\图书管理系统实现\Debug\仓库管理系统.exe

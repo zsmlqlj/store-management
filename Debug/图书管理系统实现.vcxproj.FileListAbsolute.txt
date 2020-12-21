@@ -1,0 +1,2 @@
+D:\visual studio\图书管理系统实现\Debug\仓库管理系统.exe
+D:\visual studio\图书管理系统实现\Debug\仓库管理系统.pdb
